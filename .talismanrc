@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: Step4/CMakeLists.txt
+  checksum: 3fc6603a7bfaa7a7f0a33a026529cf4575f211410d3aae71c4c57735eaf1b5e4
+version: "1.0"
